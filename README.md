@@ -2,11 +2,12 @@
 
 Bài thực hành cấu hình WordPress Multisite (Sub-directories) và xây dựng plugin quản lý tập trung `Network Site Stats`.
 
+Thông tin sinh viên: **Đỗ Hoàng Nam - 23810310303**
+
 ## 1. Nội dung repo
 - `plugin/network-site-stats/`: Source plugin.
 - `plugin/network-site-stats.zip`: Bản zip plugin để cài nhanh.
 - `database/wordpress_db_multisite.sql`: File database xuất từ môi trường thực hành.
-- `report/BAO_CAO_NETWORK_SITE_STATS.md`: Nội dung báo cáo (để dán sang DOCX).
 
 ## 2. Môi trường
 - XAMPP (Apache + MySQL)
